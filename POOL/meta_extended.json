@@ -1,0 +1,38 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://huelvaya.es/wp-content/uploads/2020/09/aries-702x336.jpg?-raw=true",
+        "url_png_logo": "https://huelvaya.es/wp-content/uploads/2020/09/aries-702x336.jpg?raw=true",
+        "location": "IOWA",
+        "social": {
+            "twitter_handle": "cabalaPool ",
+            "instagram_handle": "cabalapool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "Pilo20"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single Pool Operator.",
+            "server": "High Availability Pool running on a RedHat OpenShift cluster, secure and monitored 24x7.",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "3803789872b360fb916920c7b7cdc6b28bcf3c11b88ed500541f1fce",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": "Pilo20"
+    
+        }
+    }
+}
